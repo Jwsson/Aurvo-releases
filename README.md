@@ -31,7 +31,7 @@
 
 Get the latest `Aurvo-x.y.apk` from **[Releases](../../releases/latest)** and install it on your Android TV / Google TV:
 
-1. Send the APK to the TV with **Send Files to TV**, or open it with the **Downloader** app.
+1. Send the APK to the TV with **Send Files to TV**, **LocalSend** or open it with the **Downloader** app.
 2. Allow *Install unknown apps* for that app when asked.
 3. Open Aurvo and sign in with your **Xtream Codes** details or an **M3U link**. You can also scan the QR code and fill them in on your phone.
 
