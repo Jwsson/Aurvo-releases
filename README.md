@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="docs/screenshots/banner.png" alt="Nova TV – IPTV player for Android TV" width="100%">
+  <img src="docs/screenshots/banner.png" alt="Aurvo – IPTV player for Android TV" width="100%">
 </p>
 
-<h1 align="center">Nova TV</h1>
+<p align="center"><img src="docs/logo.svg" width="96" alt="Aurvo logo"></p>
+
+<h1 align="center">Aurvo</h1>
 
 <p align="center">
   <b>A fast, beautiful IPTV player for Android TV, inspired by Apple TV.</b><br>
@@ -22,27 +24,27 @@
 <p align="center">
   <a href="../../releases/latest"><img alt="Download" src="https://img.shields.io/badge/Download-latest%20APK-0A84FF?style=for-the-badge&logo=android&logoColor=white"></a>
   &nbsp;
-  <a href="DONATE_LINK"><img alt="Support" src="https://img.shields.io/badge/Support-Nova%20TV%20%E2%99%A5-FF375F?style=for-the-badge"></a>
+  <a href="DONATE_LINK"><img alt="Support" src="https://img.shields.io/badge/Support-Aurvo%20%E2%99%A5-FF375F?style=for-the-badge"></a>
 </p>
 
 ## Download
 
-Get the latest `NovaTV-x.y.apk` from **[Releases](../../releases/latest)** and install it on your Android TV / Google TV:
+Get the latest `Aurvo-x.y.apk` from **[Releases](../../releases/latest)** and install it on your Android TV / Google TV:
 
-1. Send the APK to the TV with **Send Files to TV**, **LocalSend** or open it with the **Downloader** app.
+1. Send the APK to the TV with **Send Files to TV**, or open it with the **Downloader** app.
 2. Allow *Install unknown apps* for that app when asked.
-3. Open Nova TV and sign in with your **Xtream Codes** details or an **M3U link**. You can also scan the QR code and fill them in on your phone.
+3. Open Aurvo and sign in with your **Xtream Codes** details or an **M3U link**. You can also scan the QR code and fill them in on your phone.
 
 New versions show up under Releases. Install the new APK on top of the old one and your settings are kept.
 
-## Support Nova TV ♥
+## Support Aurvo ♥
 
-Nova TV is **free and has no ads**. If you enjoy it, you can support development here: **[DONATE_LINK](DONATE_LINK)**.
-You'll also find a QR code under *Settings → Support Nova TV* in the app.
+Aurvo is **free and has no ads**. If you enjoy it, you can support development here: **[DONATE_LINK](DONATE_LINK)**.
+You'll also find a QR code under *Settings → Support Aurvo* in the app.
 
 ## Overview
 
-Nova TV is a native Android TV app for watching IPTV. You can sign in with **Xtream Codes** or an **M3U playlist**. The goal is an app that feels like a premium streaming service: calm, glassy, focus-driven navigation that responds instantly to the remote.
+Aurvo is a native Android TV app for watching IPTV. You can sign in with **Xtream Codes** or an **M3U playlist**. The goal is an app that feels like a premium streaming service: calm, glassy, focus-driven navigation that responds instantly to the remote.
 
 Every screen is built for the D-pad:
 
@@ -158,4 +160,4 @@ Every screen is built for the D-pad:
 
 ---
 
-<p align="center"><sub>Nova TV is a player only. It does not provide any channels or content. Use it with a service you have the rights to.</sub></p>
+<p align="center"><sub>Aurvo is a player only. It does not provide any channels or content. Use it with a service you have the rights to.</sub></p>
