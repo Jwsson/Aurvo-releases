@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/screenshots/banner.png" alt="Aurvo – IPTV player for Android TV" width="100%">
+  <img src="docs/screenshots/aurvo-banner.png" alt="Aurvo – IPTV player for Android TV" width="100%">
 </p>
 
 <p align="center"><img src="docs/logo.svg" width="96" alt="Aurvo logo"></p>
@@ -56,10 +56,10 @@ Every screen is built for the D-pad:
 
 | Live TV | TV Guide |
 |:---:|:---:|
-| <img src="docs/screenshots/live.png" alt="Live TV"> | <img src="docs/screenshots/guide.png" alt="TV Guide"> |
+| <img src="docs/screenshots/aurvo-live.png" alt="Live TV"> | <img src="docs/screenshots/aurvo-guide.png" alt="TV Guide"> |
 
 <p align="center">
-  <img src="docs/screenshots/home.png" alt="Home" width="100%"><br>
+  <img src="docs/screenshots/aurvo-home.png" alt="Home" width="100%"><br>
   <sub>Home – featured title, continue watching and your recent channels.</sub>
 </p>
 
