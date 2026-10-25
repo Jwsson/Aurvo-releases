@@ -24,7 +24,7 @@
 <p align="center">
   <a href="../../releases/latest"><img alt="Download" src="https://img.shields.io/badge/Download-latest%20APK-0A84FF?style=for-the-badge&logo=android&logoColor=white"></a>
   &nbsp;
-  <a href="DONATE_LINK"><img alt="Support" src="https://img.shields.io/badge/Support-Aurvo%20%E2%99%A5-FF375F?style=for-the-badge"></a>
+  <a href="[DONATE_LINK](https://www.paypal.com/donate/?hosted_button_id=SMWW2FL892ZMY)"><img alt="Support" src="https://img.shields.io/badge/Support-Aurvo%20%E2%99%A5-FF375F?style=for-the-badge"></a>
 </p>
 
 ## Download
