@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="docs/screenshots/aurvo-banner.png" alt="Aurvo – IPTV player for Android TV" width="100%">
+  <img src="docs/screenshots/orvyn-banner.png" alt="Orvyn – IPTV player for Android TV" width="100%">
 </p>
 
-<p align="center"><img src="docs/logo.svg" width="96" alt="Aurvo logo"></p>
+<p align="center"><img src="docs/logo.svg" width="96" alt="Orvyn logo"></p>
 
-<h1 align="center">Aurvo</h1>
+<h1 align="center">Orvyn</h1>
 
 <p align="center">
   <b>A fast, beautiful IPTV player for Android TV, inspired by Apple TV.</b><br>
@@ -23,28 +23,25 @@
 
 <p align="center">
   <a href="../../releases/latest"><img alt="Download" src="https://img.shields.io/badge/Download-latest%20APK-0A84FF?style=for-the-badge&logo=android&logoColor=white"></a>
-  &nbsp;
-  <a href="[DONATE_LINK](https://www.paypal.com/donate/?hosted_button_id=SMWW2FL892ZMY)"><img alt="Support" src="https://img.shields.io/badge/Support-Aurvo%20%E2%99%A5-FF375F?style=for-the-badge"></a>
 </p>
 
 ## Download
 
-Get the latest `Aurvo-x.y.apk` from **[Releases](../../releases/latest)** and install it on your Android TV / Google TV:
+Get the latest `Orvyn-x.y.apk` from **[Releases](../../releases/latest)** and install it on your Android TV / Google TV:
 
-1. Send the APK to the TV with **Send Files to TV**, **LocalSend** or open it with the **Downloader** app.
+1. Send the APK to the TV with **Send Files to TV**, or open it with the **Downloader** app.
 2. Allow *Install unknown apps* for that app when asked.
-3. Open Aurvo and sign in with your **Xtream Codes** details or an **M3U link**. You can also scan the QR code and fill them in on your phone.
+3. Open Orvyn and sign in with your **Xtream Codes** details or an **M3U link**. You can also scan the QR code and fill them in on your phone.
 
 New versions show up under Releases. Install the new APK on top of the old one and your settings are kept.
 
-## Support Aurvo ♥
+## Support Orvyn ♥
 
-Aurvo is **free and has no ads**. If you enjoy it, you can support development here: **[DONATE_LINK](DONATE_LINK)**.
-You'll also find a QR code under *Settings → Support Aurvo* in the app.
+Orvyn is **free and has no ads**. Thank you for using it!
 
 ## Overview
 
-Aurvo is a native Android TV app for watching IPTV. You can sign in with **Xtream Codes** or an **M3U playlist**. The goal is an app that feels like a premium streaming service: calm, glassy, focus-driven navigation that responds instantly to the remote.
+Orvyn is a native Android TV app for watching IPTV. You can sign in with **Xtream Codes** or an **M3U playlist**. The goal is an app that feels like a premium streaming service: calm, glassy, focus-driven navigation that responds instantly to the remote.
 
 Every screen is built for the D-pad:
 
@@ -56,10 +53,10 @@ Every screen is built for the D-pad:
 
 | Live TV | TV Guide |
 |:---:|:---:|
-| <img src="docs/screenshots/aurvo-live.png" alt="Live TV"> | <img src="docs/screenshots/aurvo-guide.png" alt="TV Guide"> |
+| <img src="docs/screenshots/orvyn-live.png" alt="Live TV"> | <img src="docs/screenshots/orvyn-guide.png" alt="TV Guide"> |
 
 <p align="center">
-  <img src="docs/screenshots/aurvo-home.png" alt="Home" width="100%"><br>
+  <img src="docs/screenshots/orvyn-home.png" alt="Home" width="100%"><br>
   <sub>Home – featured title, continue watching and your recent channels.</sub>
 </p>
 
@@ -160,4 +157,4 @@ Every screen is built for the D-pad:
 
 ---
 
-<p align="center"><sub>Aurvo is a player only. It does not provide any channels or content. Use it with a service you have the rights to.</sub></p>
+<p align="center"><sub>Orvyn is a player only. It does not provide any channels or content. Use it with a service you have the rights to.</sub></p>
